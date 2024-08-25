@@ -16,3 +16,5 @@ This repository contains resources, tutorials, and problem solutions for the Alg
 - `/solutions`
 - `/workshop-materials`
 - `/competition-resources`
+
+🌟 Don't forget to star this repository if you find it helpful!
