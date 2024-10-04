@@ -26,7 +26,7 @@ problems within a specified time limit using programming skills. Here's a concis
 
 ## Platforms and contests:
 
-- Online platforms: LeetCode, HackerRank, Codeforces
+- Online platforms: [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codeforces](https://codeforces.com/), [CSES](https://cses.fi/)
 - Major competitions: ACM International Collegiate Programming Contest (ICPC), Google Code Jam, Facebook Hacker Cup
 - Local Contests: MNPC , JNJD (INPT),IT HOLIC (ENSIAS) ,CODE IT (EHTP) ... 
 
